@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Gaming-Site/static/css/main.b6702b97.css",
+    "main.js": "/Gaming-Site/static/js/main.321c6bc3.js",
+    "static/js/787.83d46a80.chunk.js": "/Gaming-Site/static/js/787.83d46a80.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper (61).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (61).714517ec031c315c82ce.jpg",
+    "static/media/wallpaperflare.com_wallpaper (66).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (66).b8eebecacc276b62724c.jpg",
+    "static/media/wallpaperflare.com_wallpaper (60).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (60).814a8e3e70440c61f3c0.jpg",
+    "static/media/wp7326007-assassins-creed-4k-wallpapers.jpg": "/Gaming-Site/static/media/wp7326007-assassins-creed-4k-wallpapers.0a216120ee70144d7fbc.jpg",
+    "static/media/wallpaperflare.com_wallpaper (56).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (56).b6be775c6ba8de628c0e.jpg",
+    "static/media/wp547643-assassins-creed-rogue-wallpapers.jpg": "/Gaming-Site/static/media/wp547643-assassins-creed-rogue-wallpapers.cf6a95975fd1ed02449c.jpg",
+    "static/media/wallpaperflare.com_wallpaper (55).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (55).69eb5ff55170d1130910.jpg",
+    "static/media/wallpaperflare.com_wallpaper (68).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (68).b2b081d0d07ea7b05ceb.jpg",
+    "static/media/wallpaperflare.com_wallpaper (62).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (62).79063126f328bb13b976.jpg",
+    "static/media/wallpaperflare.com_wallpaper (67).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (67).b76c7dad360b462c3ccf.jpg",
+    "static/media/wallpaperflare.com_wallpaper (63).jpg": "/Gaming-Site/static/media/wallpaperflare.com_wallpaper (63).45f995221352f72684d2.jpg",
+    "index.html": "/Gaming-Site/index.html",
+    "main.b6702b97.css.map": "/Gaming-Site/static/css/main.b6702b97.css.map",
+    "main.321c6bc3.js.map": "/Gaming-Site/static/js/main.321c6bc3.js.map",
+    "787.83d46a80.chunk.js.map": "/Gaming-Site/static/js/787.83d46a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6702b97.css",
+    "static/js/main.321c6bc3.js"
+  ]
+}
